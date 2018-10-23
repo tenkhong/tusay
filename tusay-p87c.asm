@@ -1,5 +1,4 @@
 ;
-;  D52 V3.3.6 8052 Disassembly of C:\Users\N-PHONG\Downloads\Mini-TL866\tusay-p87c.HEX
 ;  03/16/17 14:48
 ;
 	org	0
